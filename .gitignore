@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# NestJS generated files
+/dist/
+/tmp/
+
+# Environment variables
+.env
+.env.*
+.env.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw??
